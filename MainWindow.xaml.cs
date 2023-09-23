@@ -27,7 +27,7 @@ namespace Lab01
 
         private void ClickButton(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("You are in experimental branch");
+            MessageBox.Show("Tests");
         }
     }
 }
