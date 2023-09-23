@@ -11,7 +11,7 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Button Click="ClickButton" Grid.Column="1">Click</Button>
+        <Button Click="ClickButton" Grid.Column="1" Content="Супер клик&#xD;&#xA;"/>
         <Label HorizontalAlignment="Center" VerticalAlignment="Center">Click on button</Label>
     </Grid>
 </Window>
