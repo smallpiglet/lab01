@@ -27,7 +27,8 @@ namespace Lab01
 
         private void ClickButton(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Tests");
+            MessageBox.Show("Test");
+            MessageBox.Show("123");
         }
     }
 }
